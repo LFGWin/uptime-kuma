@@ -29,6 +29,7 @@ import Indigo from "./Indigo.vue";
 import HeiiOnCall from "./HeiiOnCall.vue";
 import Keep from "./Keep.vue";
 import Kook from "./Kook.vue";
+import LFGAlarm from "./LFGAlarm.vue";
 import Line from "./Line.vue";
 import LunaSea from "./LunaSea.vue";
 import Matrix from "./Matrix.vue";
@@ -144,6 +145,7 @@ const NotificationFormList = {
     HeiiOnCall: HeiiOnCall,
     Keep: Keep,
     Kook: Kook,
+    LFGAlarm: LFGAlarm,
     line: Line,
     lunasea: LunaSea,
     matrix: Matrix,

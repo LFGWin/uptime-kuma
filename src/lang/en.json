@@ -1637,5 +1637,11 @@
     "Pattern Code ID": "Pattern Code ID",
     "Amoot SMS pattern help": "Enter the Pattern Code ID from your Amoot SMS panel. {0}",
     "Create an Amoot SMS pattern": "Create an Amoot SMS pattern",
-    "Use Own Line for Pattern": "Use Own Line for Pattern"
+    "Use Own Line for Pattern": "Use Own Line for Pattern",
+    "lfgAlarmUrl": "Alarm link",
+    "lfgAlarmUrlHelptext": "The private link of your Anything alarm. Keep it secret: anyone with the link can ring the alarm.",
+    "lfgAlarmRingOnUp": "Ring when it's back up too",
+    "lfgAlarmRingOnUpHelptext": "When off, the alarm rings only when a monitor goes down, for certificate and domain expiry warnings, and for the Test button.",
+    "lfgAlarmNameHelptext": "Your phone shows the alarm's own name, not this message, so name the alarm for what it watches (for example 'Website is down').",
+    "lfgAlarmSetup": "In the LFG Alarm app, make an 🔮 Anything alarm and copy its private link. Anything alarms need a paid plan; see {0}. Setup guide: {1}"
 }

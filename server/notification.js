@@ -30,6 +30,7 @@ const Indigo = require("./notification-providers/indigo");
 const HeiiOnCall = require("./notification-providers/heii-oncall");
 const Keep = require("./notification-providers/keep");
 const Kook = require("./notification-providers/kook");
+const LFGAlarm = require("./notification-providers/lfg-alarm");
 const Line = require("./notification-providers/line");
 const LunaSea = require("./notification-providers/lunasea");
 const Matrix = require("./notification-providers/matrix");
@@ -155,6 +156,7 @@ class Notification {
             new HeiiOnCall(),
             new Keep(),
             new Kook(),
+            new LFGAlarm(),
             new Line(),
             new LunaSea(),
             new Matrix(),

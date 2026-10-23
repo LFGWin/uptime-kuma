@@ -257,6 +257,7 @@ export default {
                 Bark: "Bark",
                 gorush: "Gorush",
                 gotify: "Gotify",
+                LFGAlarm: "LFG Alarm",
                 lunasea: "LunaSea",
                 notifery: "Notifery",
                 notifyapp: "Notify!",
